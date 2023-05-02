@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qe75f69zEJaBRAL5anSNUrBF3o7jkPsSqFiguQo/+7p9eqFoAgSDahWtCOha7ChIgttlIgKfJk51iuHqKCBSEw==",
+  "success": true,
+  "projectFilePath": "D:\\For Learning\\SignalR\\SignalR\\SignalR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mfoly\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\7.0.3\\microsoft.aspnetcore.connections.abstractions.7.0.3.nupkg.sha512",
+    "C:\\Users\\mfoly\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\7.0.3\\microsoft.aspnetcore.signalr.common.7.0.3.nupkg.sha512",
+    "C:\\Users\\mfoly\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\mfoly\\.nuget\\packages\\microsoft.extensions.features\\7.0.3\\microsoft.extensions.features.7.0.3.nupkg.sha512",
+    "C:\\Users\\mfoly\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\mfoly\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\mfoly\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
+    "C:\\Users\\mfoly\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\mfoly\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\mfoly\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
